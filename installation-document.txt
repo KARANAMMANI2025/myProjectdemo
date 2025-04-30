@@ -1,1 +1,3 @@
-Please follow the steps to install the project
+Please follow the steps to install the project.
+
+1. as it is a java we need to add the java path to environment variable first.
