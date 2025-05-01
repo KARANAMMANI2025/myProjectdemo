@@ -1,1 +1,4 @@
 Please follow the steps to install the project
+
+1. Install java first 
+2. Do the path set up for java
